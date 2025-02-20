@@ -116,7 +116,7 @@ export const Pricing = () => {
     </ul>
   </div>
 ))}
-  
+
           </div>
       </div>
     </section>
